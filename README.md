@@ -1,5 +1,7 @@
 # javascriptation by Jhonatec
 A game page like Dino from Google only using HTML / CSS / JS
+This was my first personal project in Trybe (a school for Full Stack development in JS/Python)
+(February of 2023)
 
 ## See online
 <a href="https://javascriptation.jhonatec.dev/" target="_blank">Click here to open the preview</a>
