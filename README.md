@@ -9,7 +9,7 @@ A game page like Dino from Google only using HTML / CSS / JS
 <img src="./print_playing.png" alt="Print da aplicação" />
 
 ### Mobile ready
-<img src="./print_mobile.png" alt="Print da aplicação" />
+<img src="./print_mobile.png" alt="Print da aplicação" height="350px"/>
 
 # Functionalities
 - Pause all objects at once
